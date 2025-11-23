@@ -1,31 +1,5 @@
 [
   {
-    "id": "EB02-028",
-    "code": "EB02-028",
-    "rarity": "R",
-    "type": "CHARACTER",
-    "name": "Portgas.D.Ace - EB02-028 (SP)",
-    "images": {
-      "small": "https://optcgapi.com/media/static/Card_Images/EB02-028_p1_3NnbyQE.png",
-      "large": "https://optcgapi.com/media/static/Card_Images/EB02-028_p1_3NnbyQE.png"
-    },
-    "cost": 5,
-    "attribute": {
-      "name": "Special",
-      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
-    },
-    "power": 5000,
-    "counter": "1000",
-    "color": "Blue",
-    "family": "Alabasta Whitebeard Pirates",
-    "ability": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", look at 5 cards from the top of your deck; reveal up to 1 Character card with a cost of 2 and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 Character card with a cost of 2 from your hand rested.",
-    "trigger": "",
-    "set": {
-      "name": "-CARRYING ON HIS WILL- [OP-13]"
-    },
-    "notes": []
-  },
-  {
     "id": "OP07-111",
     "code": "OP07-111",
     "rarity": "SR",
