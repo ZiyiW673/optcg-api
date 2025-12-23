@@ -1,0 +1,4454 @@
+[
+  {
+    "id": "EB02-028_p1",
+    "code": "EB02-028",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Portgas.D.Ace - EB02-028 (SP)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/EB02-028_p1_3NnbyQE.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/EB02-028_p1_3NnbyQE.png"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Alabasta/Whitebeard Pirates",
+    "ability": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", look at 5 cards from the top of your deck; reveal up to 1 Character card with a cost of 2 and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 Character card with a cost of 2 from your hand rested.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP07-111_p2",
+    "code": "OP07-111",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Lilith - OP07-111 (SP)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP07-111_p2_IJQHDKC.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP07-111_p2_IJQHDKC.png"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 5000,
+    "counter": "",
+    "color": "Yellow",
+    "family": "Scientist/Egghead",
+    "ability": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Egghead] type card other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] If your Leader is [Vegapunk], play this card.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP07-118_p2",
+    "code": "OP07-118",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Sabo - OP07-118 (SP)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP07-118_p2_PCjCKMT.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP07-118_p2_PCjCKMT.png"
+    },
+    "cost": 8,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 9000,
+    "counter": "",
+    "color": "Black",
+    "family": "Revolutionary Army",
+    "ability": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less and up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP09-004_p6",
+    "code": "OP09-004",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Shanks - OP09-004 (SP) (Silver)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP09-004_p6_GBo9322.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP09-004_p6_GBo9322.png"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 12000,
+    "counter": "",
+    "color": "Red",
+    "family": "The Four Emperors/Red-Haired Pirates",
+    "ability": "Give all of your opponent's Characters 1000 power.[Rush] (This card can attack on the turn in which it is played.)",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP09-009_p3",
+    "code": "OP09-009",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Benn.Beckman (SP)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP09-009_p3_b28gAmg.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP09-009_p3_b28gAmg.png"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Red-Haired Pirates",
+    "ability": "[On Play] Trash up to 1 of your opponent's Characters with 6000 power or less.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP09-118_p3",
+    "code": "OP09-118",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Gol.D.Roger - OP09-118 (SP) (Wanted Poster)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP09-118_p3_o06WnCc.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP09-118_p3_o06WnCc.png"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 13000,
+    "counter": "",
+    "color": "Red",
+    "family": "Roger Pirates/King of the Pirates",
+    "ability": "[Rush] (This card can attack on the turn in which it is played.)When your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP09-119_p3",
+    "code": "OP09-119",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy - OP09-119 (SP)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP09-119_p3_lTadu1b.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP09-119_p3_lTadu1b.png"
+    },
+    "cost": 9,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 10000,
+    "counter": "",
+    "color": "Purple",
+    "family": "Straw Hat Crew",
+    "ability": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Draw 1 card and this Character gains [Rush] during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP10-030_p2",
+    "code": "OP10-030",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Smoker - OP10-030 (SP)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP10-030_p2_60fEVos.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP10-030_p2_60fEVos.png"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Green",
+    "family": "Navy/Punk Hazard",
+    "ability": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP11-058_p1",
+    "code": "OP11-058",
+    "rarity": "TR",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy - OP11-058 (TR)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP11-058_p1_pUjWFdt.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP11-058_p1_pUjWFdt.png"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Straw Hat Crew",
+    "ability": "If you have 5 or more cards in your hand, this Character cannot attack.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-001",
+    "code": "OP13-001",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Monkey.D.Luffy (001)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-001_8pgvmZO.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-001_8pgvmZO.jpg"
+    },
+    "cost": null,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "",
+    "color": "Green Red",
+    "family": "Straw Hat Crew/Supernovas",
+    "ability": "[DON!! x1] [On Your Opponent's Attack] If you have 5 or less active DON!! cards, you may rest any number of your DON!! cards. For every DON!! card rested this way, this Leader or up to 1 of your \"Straw Hat Crew\" type Characters gains +2000 power during this battle.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-001_p1",
+    "code": "OP13-001",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Monkey.D.Luffy (001) (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-001_p1_ovgL62d.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-001_p1_ovgL62d.jpg"
+    },
+    "cost": null,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "",
+    "color": "Green Red",
+    "family": "Straw Hat Crew/Supernovas",
+    "ability": "[DON!! x1] [On Your Opponent's Attack] If you have 5 or less active DON!! cards, you may rest any number of your DON!! cards. For every DON!! card rested this way, this Leader or up to 1 of your \"Straw Hat Crew\" type Characters gains +2000 power during this battle.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-002",
+    "code": "OP13-002",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Portgas.D.Ace (002)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-002_sy67sYO.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-002_sy67sYO.jpg"
+    },
+    "cost": null,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 6000,
+    "counter": "",
+    "color": "Blue Red",
+    "family": "Whitebeard Pirates",
+    "ability": "[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 of your opponent's Leader or Character cards 2000 power during this battle.\n[DON!! x1] [Once Per Turn] When you take damage or your Character with 6000 base power or more is K.O.'d, draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-002_p1",
+    "code": "OP13-002",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Portgas.D.Ace (002) (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-002_p1_9XMhMTI.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-002_p1_9XMhMTI.jpg"
+    },
+    "cost": null,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 6000,
+    "counter": "",
+    "color": "Blue Red",
+    "family": "Whitebeard Pirates",
+    "ability": "[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 of your opponent's Leader or Character cards 2000 power during this battle.\n[DON!! x1] [Once Per Turn] When you take damage or your Character with 6000 base power or more is K.O.'d, draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-003",
+    "code": "OP13-003",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Gol.D.Roger (003)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-003_iGc1KIf.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-003_iGc1KIf.jpg"
+    },
+    "cost": null,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Purple Red",
+    "family": "Roger Pirates/King of the Pirates",
+    "ability": "If you have any DON!! cards on your field, 1 DON!! card placed during your DON!! Phase is given to your Leader.\nIf you have 9 or less DON!! cards on your field, give this Leader 2000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-003_p1",
+    "code": "OP13-003",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Gol.D.Roger (003) (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-003_p1_GrKKKHI.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-003_p1_GrKKKHI.jpg"
+    },
+    "cost": null,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Purple Red",
+    "family": "Roger Pirates/King of the Pirates",
+    "ability": "If you have any DON!! cards on your field, 1 DON!! card placed during your DON!! Phase is given to your Leader.\nIf you have 9 or less DON!! cards on your field, give this Leader 2000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-004",
+    "code": "OP13-004",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Sabo (004)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-004_5MtMhxW.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-004_5MtMhxW.jpg"
+    },
+    "cost": null,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "",
+    "color": "Red Black",
+    "family": "Revolutionary Army/Dressrosa",
+    "ability": "If you have 4 or more Life cards, give this Leader 1000 power.\n[DON!! x1] If you have a Character with a cost of 8 or more, your Leader and all of your Characters gain +1000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-004_p1",
+    "code": "OP13-004",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Sabo (004) (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-004_p1_EdPEmQv.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-004_p1_EdPEmQv.jpg"
+    },
+    "cost": null,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "",
+    "color": "Red Black",
+    "family": "Revolutionary Army/Dressrosa",
+    "ability": "If you have 4 or more Life cards, give this Leader 1000 power.\n[DON!! x1] If you have a Character with a cost of 8 or more, your Leader and all of your Characters gain +1000 power.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-005",
+    "code": "OP13-005",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Inazuma",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-005_wmAe722.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-005_wmAe722.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Revolutionary Army",
+    "ability": "[On Play] Give up to 1 rested DON!! card to your Leader.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-006",
+    "code": "OP13-006",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Woop Slap",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-006_7BIDucC.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-006_7BIDucC.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": null,
+    "counter": "",
+    "color": "Red",
+    "family": "1000",
+    "ability": "[On Play] Give up to 2 rested DON!! cards to 1 of your [Monkey.D.Luffy] cards.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-007",
+    "code": "OP13-007",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Ace & Sabo & Luffy",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-007_cqp8TzS.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-007_cqp8TzS.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 1000,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Goa Kingdom",
+    "ability": "[Activate: Main] You may give 1 of your active DON!! cards to 1 of your Leader or Character cards and trash this Character: Give up to 1 of your opponent's Characters 3000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-007_p1",
+    "code": "OP13-007",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Ace & Sabo & Luffy (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-007_p1_UuwwQ8I.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-007_p1_UuwwQ8I.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 1000,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Goa Kingdom",
+    "ability": "[Activate: Main] You may give 1 of your active DON!! cards to 1 of your Leader or Character cards and trash this Character: Give up to 1 of your opponent's Characters 3000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-008",
+    "code": "OP13-008",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Emporio.Ivankov",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-008_VwdC444.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-008_VwdC444.jpg"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Revolutionary Army",
+    "ability": "If your \"Revolutionary Army\" type Character would be K.O.'d by your opponent's effect, you may trash this Character instead.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-009",
+    "code": "OP13-009",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Curly.Dadan",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-009_WWKMdip.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-009_WWKMdip.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Mountain Bandits/Mountain Bandits",
+    "ability": "If you have a \"Mountain Bandits\" type Character other than this card, this Character gains [Double Attack].",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-010",
+    "code": "OP13-010",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Lord of the Coast",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-010_5hyWBG8.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-010_5hyWBG8.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 8000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "East Blue/Neptunian",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-011",
+    "code": "OP13-011",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Nefeltari Cobra",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-011_53FS5nP.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-011_53FS5nP.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 6000,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Alabasta",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-012",
+    "code": "OP13-012",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Nefeltari Vivi",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-012_76uztI0.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-012_76uztI0.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Alabasta",
+    "ability": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 \"Alabasta\" or \"Straw Hat Crew\" type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-013",
+    "code": "OP13-013",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Higuma",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-013_cG2OBxq.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-013_cG2OBxq.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 3000,
+    "counter": "",
+    "color": "Red",
+    "family": "Mountain Bandits/Mountain Bandits",
+    "ability": "[On Play] K.O. up to 1 of your opponent's Characters with 0 power or less.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-014",
+    "code": "OP13-014",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Portgas.D.Rouge",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-014_KYkcWZW.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-014_KYkcWZW.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": null,
+    "counter": "",
+    "color": "Red",
+    "family": "2000",
+    "ability": "",
+    "trigger": "[Trigger] Up to 1 of your [Portgas.D.Ace] cards gains +3000 power during this turn.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-015",
+    "code": "OP13-015",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Makino",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-015_kUxGSoS.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-015_kUxGSoS.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": null,
+    "counter": "",
+    "color": "Red",
+    "family": "2000",
+    "ability": "[Activate: Main] You may rest this Character: Up to 1 of your [Monkey.D.Luffy] cards gains +2000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-016",
+    "code": "OP13-016",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Garp",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-016_rlIRRz1.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-016_rlIRRz1.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Navy",
+    "ability": "[On Play] If your Leader is [Sabo], [Portgas.D.Ace] or [Monkey.D.Luffy], look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 3 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-016_p1",
+    "code": "OP13-016",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Garp (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-016_p1_OvF5vix.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-016_p1_OvF5vix.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Navy",
+    "ability": "[On Play] If your Leader is [Sabo], [Portgas.D.Ace] or [Monkey.D.Luffy], look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 3 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-017",
+    "code": "OP13-017",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Dragon",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-017_b2nvh5F.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-017_b2nvh5F.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Red",
+    "family": "Revolutionary Army",
+    "ability": "[Once Per Turn] If your \"Revolutionary Army\" type Character would be removed from the field by your opponent's effect, you may give this Character 2000 power during this turn instead.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-018",
+    "code": "OP13-018",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Wapol",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-018_4Dm06t2.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-018_4Dm06t2.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "2000",
+    "color": "Red",
+    "family": "Evil Black Drum Kingdom",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-019",
+    "code": "OP13-019",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "But Ace Here Said You Deserved It!!",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-019_BJl9obT.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-019_BJl9obT.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Red",
+    "family": "Revolutionary Army/Dressrosa",
+    "ability": "[Main] You may rest 4 of your DON!! cards: Give up to 1 of your opponent's Characters 3000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.\n[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-020",
+    "code": "OP13-020",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Meteor Fist",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-020_3lFUhF1.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-020_3lFUhF1.jpg"
+    },
+    "cost": 3,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Red",
+    "family": "Navy",
+    "ability": "[Main] Give up to 1 of your opponent's Characters 5000 power during this turn.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-021",
+    "code": "OP13-021",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Gum-Gum Gatling Gun",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-021_coQV5ky.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-021_coQV5ky.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Red",
+    "family": "Straw Hat Crew",
+    "ability": "[Main] Give up to 1 rested DON!! card to 1 of your [Monkey.D.Luffy] cards. Then, give up to 1 of your opponent's Characters 2000 power during this turn.",
+    "trigger": "[Trigger] Give up to 1 of your opponent's Characters 2000 power during this turn.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-022",
+    "code": "OP13-022",
+    "rarity": "C",
+    "type": "STAGE",
+    "name": "Windmill Village",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-022_HfJTKSB.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-022_HfJTKSB.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Red",
+    "family": "Windmill Village",
+    "ability": "[Activate: Main] You may rest this Stage: Up to 1 of your Characters with 2000 base power or less gains +1000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-023",
+    "code": "OP13-023",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Uta",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-023_BcP4IIz.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-023_BcP4IIz.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "FILM",
+    "ability": "[On Play] Set up to 2 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.\n[On K.O.] Play up to 1 Character card with a cost of 5 or less from your hand rested.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-023_p1",
+    "code": "OP13-023",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Uta (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-023_p1_QoP0Ctw.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-023_p1_QoP0Ctw.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "FILM",
+    "ability": "[On Play] Set up to 2 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.\n[On K.O.] Play up to 1 Character card with a cost of 5 or less from your hand rested.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-024",
+    "code": "OP13-024",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Gordon",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-024_gyMopd2.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-024_gyMopd2.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": null,
+    "counter": "",
+    "color": "Green",
+    "family": "2000",
+    "ability": "[On Play] You may reveal 1 \"Music\" or \"FILM\" type card from your hand: Set up to 2 of your DON!! cards as active at the end of this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-025",
+    "code": "OP13-025",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Koby",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-025_JEY4yj2.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-025_JEY4yj2.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "FILM/Navy",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] If your Leader has the \"FILM\" type or the \"Strike\" attribute, set up to 1 of your DON!! cards as active.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-026",
+    "code": "OP13-026",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Sunny-Kun",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-026_AwRsgvG.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-026_AwRsgvG.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "FILM/Straw Hat Crew",
+    "ability": "[Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: This Character gains +2000 power until the end of your opponent's next turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-027",
+    "code": "OP13-027",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Sanji",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-027_361y5hF.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-027_361y5hF.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Green",
+    "family": "FILM/Straw Hat Crew",
+    "ability": "[On Play] Set up to 2 of your DON!! cards as active.\n[End of Your Turn] If your Leader has the \"FILM\" or \"Straw Hat Crew\" type, set up to 1 of your DON!! cards as active.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-027_p1",
+    "code": "OP13-027",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Sanji (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-027_p1_M0OVDMA.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-027_p1_M0OVDMA.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Green",
+    "family": "FILM/Straw Hat Crew",
+    "ability": "[On Play] Set up to 2 of your DON!! cards as active.\n[End of Your Turn] If your Leader has the \"FILM\" or \"Straw Hat Crew\" type, set up to 1 of your DON!! cards as active.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-028",
+    "code": "OP13-028",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Shanks (028)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-028_UaROPGm.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-028_UaROPGm.jpg"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 12000,
+    "counter": "",
+    "color": "Green",
+    "family": "FILM/The Four Emperors/Red-Haired Pirates",
+    "ability": "[On Play] Set all of your DON!! cards as active. Then, you cannot play cards from your hand during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-028_p1",
+    "code": "OP13-028",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Shanks (028) (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-028_p1_rvGiRHX.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-028_p1_rvGiRHX.jpg"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 12000,
+    "counter": "",
+    "color": "Green",
+    "family": "FILM/The Four Emperors/Red-Haired Pirates",
+    "ability": "[On Play] Set all of your DON!! cards as active. Then, you cannot play cards from your hand during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-029",
+    "code": "OP13-029",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Jinbe",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-029_yPaBkLN.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-029_yPaBkLN.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "FILM/Fish-Man/Straw Hat Crew",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-030",
+    "code": "OP13-030",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Tony Tony.Chopper",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-030_gs8JzGD.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-030_gs8JzGD.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "Animal/FILM/Straw Hat Crew",
+    "ability": "[On Play] Set up to 2 of your DON!! cards as active.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-031",
+    "code": "OP13-031",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Trafalgar Law",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-031_RqMf0Sh.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-031_RqMf0Sh.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 6000,
+    "counter": "",
+    "color": "Green",
+    "family": "FILM/Heart Pirates/Supernovas",
+    "ability": "If you have 1 or less Life cards, this Character gains [Blocker].\n[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 5 or less from your hand rested.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-032",
+    "code": "OP13-032",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Nico Robin",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-032_V1pvczB.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-032_V1pvczB.jpg"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "FILM/Straw Hat Crew",
+    "ability": "[On Play] Up to 1 of your opponent's Characters with a cost of 8 or less cannot be rested until the end of your opponent's next End Phase.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-033",
+    "code": "OP13-033",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Franky",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-033_HVso4X8.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-033_HVso4X8.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "",
+    "color": "Green",
+    "family": "FILM/Straw Hat Crew",
+    "ability": "[On K.O.] Rest up to 2 of your opponent's cards.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-034",
+    "code": "OP13-034",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Brook",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-034_ClOTfZF.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-034_ClOTfZF.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "FILM/Straw Hat Crew",
+    "ability": "[On Play] If your Leader has the \"FILM\" or \"Straw Hat Crew\" type, set up to 1 of your DON!! cards as active.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-035",
+    "code": "OP13-035",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Bepo",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-035_hbo71ZB.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-035_hbo71ZB.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Green",
+    "family": "FILM/Heart Pirates/Minks",
+    "ability": "[End of Your Turn] Set this Character or up to 1 of your DON!! cards as active.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-036",
+    "code": "OP13-036",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Helmeppo",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-036_5dHg4Pe.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-036_5dHg4Pe.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 6000,
+    "counter": "2000",
+    "color": "Green",
+    "family": "FILM/Navy",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-037",
+    "code": "OP13-037",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Roronoa Zoro",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-037_K98Ufjr.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-037_K98Ufjr.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Green",
+    "family": "FILM/Straw Hat Crew/Supernovas",
+    "ability": "[On Play] If your Leader has the \"FILM\" or \"Straw Hat Crew\" type, set up to 2 of your DON!! cards as active.\n[End of Your Turn] Set this Character as active.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-038",
+    "code": "OP13-038",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Gum-Gum Elephant Gun",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-038_9dTA9Ab.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-038_9dTA9Ab.jpg"
+    },
+    "cost": 2,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Green",
+    "family": "Straw Hat Crew/Supernovas",
+    "ability": "[Main] Rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, set up to 2 of your DON!! cards as active at the end of this turn.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-039",
+    "code": "OP13-039",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Gum-Gum Snake Shot",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-039_kalbkOx.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-039_kalbkOx.jpg"
+    },
+    "cost": 2,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Green",
+    "family": "Straw Hat Crew/Supernovas/Fish-Man Island",
+    "ability": "[Counter] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+    "trigger": "[Trigger] Activate this card's [Counter] effect.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-040",
+    "code": "OP13-040",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-040_DJGa6YR.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-040_DJGa6YR.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Green",
+    "family": "Straw Hat Crew/Supernovas",
+    "ability": "[Main] You may rest 2 of your DON!! cards: Up to 2 of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.\n[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-041",
+    "code": "OP13-041",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Izo",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-041_0EVdio1.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-041_0EVdio1.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Land of Wano/Whitebeard Pirates",
+    "ability": "[On Play] Draw 2 cards.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-042",
+    "code": "OP13-042",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Edward.Newgate",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-042_cORQUwo.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-042_cORQUwo.jpg"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 12000,
+    "counter": "",
+    "color": "Blue",
+    "family": "The Four Emperors/Whitebeard Pirates",
+    "ability": "[Blocker]\n[On Play] Draw 2 cards and trash 1 card from your hand. Then, give your Leader and 1 Character up to 2 rested DON!! cards each.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-042_p1",
+    "code": "OP13-042",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Edward.Newgate (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-042_p1_WwBji85.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-042_p1_WwBji85.jpg"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 12000,
+    "counter": "",
+    "color": "Blue",
+    "family": "The Four Emperors/Whitebeard Pirates",
+    "ability": "[Blocker]\n[On Play] Draw 2 cards and trash 1 card from your hand. Then, give your Leader and 1 Character up to 2 rested DON!! cards each.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-043",
+    "code": "OP13-043",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Otama",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-043_ARa00EL.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-043_ARa00EL.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": null,
+    "counter": "",
+    "color": "Blue",
+    "family": "2000",
+    "ability": "[On Play] If you have 3 or less Life cards, draw 2 cards and trash 1 card from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-044",
+    "code": "OP13-044",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Curiel",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-044_2TEeOfQ.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-044_2TEeOfQ.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 4000,
+    "counter": "",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "[When Attacking] Give up to 1 rested DON!! card to your Leader with a type including \"Whitebeard Pirates\" or 1 Character with a type including \"Whitebeard Pirates\".\n[On K.O.] Draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-045",
+    "code": "OP13-045",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Haruta",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-045_ftCaASV.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-045_ftCaASV.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "[When Attacking] If you have 4 or less cards in your hand, draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-046",
+    "code": "OP13-046",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Vista",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-046_gsKHqVM.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-046_gsKHqVM.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 8000,
+    "counter": "",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "[Double Attack]\n[Once Per Turn] If this Character would be K.O.'d or would be removed from the field by your opponent's effect, you may trash 1 card with a type including \"Whitebeard Pirates\" from your hand instead.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-047",
+    "code": "OP13-047",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Fossa",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-047_ttYExC8.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-047_ttYExC8.jpg"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "If your Character with a type including \"Whitebeard Pirates\" would be K.O.'d by your opponent's effect, you may trash this Character instead.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-048",
+    "code": "OP13-048",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Blamenco",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-048_zr15xba.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-048_zr15xba.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 6000,
+    "counter": "2000",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-049",
+    "code": "OP13-049",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Blenheim",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-049_cQMyJNS.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-049_cQMyJNS.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 7000,
+    "counter": "2000",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-050",
+    "code": "OP13-050",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Boa Sandersonia",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-050_7oBtlKP.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-050_7oBtlKP.jpg"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Kuja Pirates",
+    "ability": "[On Play] If your Leader is [Boa Hancock], play up to 1 [Boa Hancock] with a cost of 3 or less from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-051",
+    "code": "OP13-051",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Boa Hancock",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-051_gxxw7PU.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-051_gxxw7PU.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "",
+    "color": "Blue",
+    "family": "Kuja Pirates/The Seven Warlords of the Sea",
+    "ability": "[On K.O.] If your Leader is [Boa Hancock] or multicolored, draw 2 cards.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-051_p1",
+    "code": "OP13-051",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Boa Hancock (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-051_p1_vuQ63Jj.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-051_p1_vuQ63Jj.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "",
+    "color": "Blue",
+    "family": "Kuja Pirates/The Seven Warlords of the Sea",
+    "ability": "[On K.O.] If your Leader is [Boa Hancock] or multicolored, draw 2 cards.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-052",
+    "code": "OP13-052",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Boa Marigold",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-052_dEx8k6x.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-052_dEx8k6x.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Kuja Pirates",
+    "ability": "[Blocker]\n[On Play] If your Leader is [Boa Hancock], play up to 1 [Boa Hancock] with a cost of 6 or less from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-053",
+    "code": "OP13-053",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Marshall.D.Teach",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-053_4lZ6pN9.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-053_4lZ6pN9.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "[When Attacking] You may trash 1 of your Characters with a type including \"Whitebeard Pirates\": Draw 1 card and this Character gains [Banish] during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-054",
+    "code": "OP13-054",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Yamato",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-054_3WUipek.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-054_3WUipek.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Land of Wano",
+    "ability": "[On Play] If you have 3 or less Life cards, draw 2 cards. Then, give up to 1 rested DON!! card to your Leader.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-054_p1",
+    "code": "OP13-054",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Yamato (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-054_p1_70Fwd6z.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-054_p1_70Fwd6z.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Land of Wano",
+    "ability": "[On Play] If you have 3 or less Life cards, draw 2 cards. Then, give up to 1 rested DON!! card to your Leader.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-055",
+    "code": "OP13-055",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Rakuyo",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-055_3hg2dZz.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-055_3hg2dZz.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "[When Attacking] If you have 4 or less cards in your hand, all of your Characters with a type including \"Whitebeard Pirates\" gain +1000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-056",
+    "code": "OP13-056",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "LittleOars Jr.",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-056_reiNFsd.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-056_reiNFsd.jpg"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Blue",
+    "family": "Giant/Whitebeard Pirates Allies",
+    "ability": "[When Attacking] If your Leader's type includes \"Whitebeard Pirates\", draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-057",
+    "code": "OP13-057",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "If I Bowed Down to Power, What's the Point in Living?",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-057_eVMqv9V.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-057_eVMqv9V.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "[Main] You may rest 1 of your DON!! cards: If you have 1 or less Life cards, your opponent cannot activate [Blocker] whenever your Leader attacks during this turn.\n[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-058",
+    "code": "OP13-058",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Phoenix Pyreapple",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-058_JTm84sx.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-058_JTm84sx.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Blue",
+    "family": "Former Whitebeard Pirates",
+    "ability": "[Main] You may rest 1 of your DON!! cards: Place up to 1 of your opponent's Characters with 3000 power or less at the bottom of the owner's deck.\n[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-059",
+    "code": "OP13-059",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Brilliant Punk",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-059_4k6NxT7.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-059_4k6NxT7.jpg"
+    },
+    "cost": 4,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "[Main] You may return 1 of your Characters to the owner's hand: Return up to 1 Character with a cost of 6 or less to the owner's hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-060",
+    "code": "OP13-060",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Amatsuki Toki",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-060_CsSydRY.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-060_CsSydRY.jpg"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Land of Wano/Roger Pirates",
+    "ability": "If your Character with a type including \"Roger Pirates\" would be K.O.'d by your opponent's effect, you may trash this Character instead.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-061",
+    "code": "OP13-061",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Inuarashi",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-061_JJ2fDPe.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-061_JJ2fDPe.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 3000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Minks/Roger Pirates",
+    "ability": "[On Play] If you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it. Then, K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-062",
+    "code": "OP13-062",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Crocus",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-062_SRuM73G.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-062_SRuM73G.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Roger Pirates",
+    "ability": "[On Play] If you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and set it as active.\n[When Attacking] Return up to 1 of your opponent's Characters with a base power of 3000 or less to the owner's hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-063",
+    "code": "OP13-063",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Kouzuki Oden",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-063_xRFLk17.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-063_xRFLk17.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Land of Wano/Kouzuki Clan/Roger Pirates",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] If you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-064",
+    "code": "OP13-064",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Gol.D.Roger (064)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-064_a6yIXi4.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-064_a6yIXi4.jpg"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 13000,
+    "counter": "",
+    "color": "Purple",
+    "family": "Roger Pirates/King of the Pirates",
+    "ability": "Your Leader and all of your Characters that do not have a type including \"Roger Pirates\" have their effects negated.\n[On Play] DON!! 3: Your Leader gains +2000 power until the end of your opponent's next End Phase. Then, give all of your opponent's Characters -2000 power until the end of your opponent's next End Phase.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-064_p1",
+    "code": "OP13-064",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Gol.D.Roger (064) (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-064_p1_vix6oRm.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-064_p1_vix6oRm.jpg"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 13000,
+    "counter": "",
+    "color": "Purple",
+    "family": "Roger Pirates/King of the Pirates",
+    "ability": "Your Leader and all of your Characters that do not have a type including \"Roger Pirates\" have their effects negated.\n[On Play] DON!! 3: Your Leader gains +2000 power until the end of your opponent's next End Phase. Then, give all of your opponent's Characters 2000 power until the end of your opponent's next End Phase.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-065",
+    "code": "OP13-065",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Shanks (065)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-065_0dbztAH.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-065_0dbztAH.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Roger Pirates",
+    "ability": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Roger Pirates\" other than [Shanks] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-065_p1",
+    "code": "OP13-065",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Shanks (065) (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-065_p1_2rAgYMu.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-065_p1_2rAgYMu.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Roger Pirates",
+    "ability": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Roger Pirates\" other than [Shanks] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-066",
+    "code": "OP13-066",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Silvers Rayleigh",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-066_mZjUgJ3.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-066_mZjUgJ3.jpg"
+    },
+    "cost": 8,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 9000,
+    "counter": "",
+    "color": "Purple",
+    "family": "Roger Pirates",
+    "ability": "[Rush]\n[On Play] If you have any DON!! cards given, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, add up to 1 DON!! card from your DON!! deck and set it as active at the end of this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-066_p1",
+    "code": "OP13-066",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Silvers Rayleigh (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-066_p1_YADp4US.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-066_p1_YADp4US.jpg"
+    },
+    "cost": 8,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 9000,
+    "counter": "",
+    "color": "Purple",
+    "family": "Roger Pirates",
+    "ability": "[Rush]\n[On Play] If you have any DON!! cards given, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, add up to 1 DON!! card from your DON!! deck and set it as active at the end of this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-067",
+    "code": "OP13-067",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Scopper Gaban",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-067_lH0Gl8k.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-067_lH0Gl8k.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Roger Pirates",
+    "ability": "[On Play] If your Leader's type includes \"Roger Pirates\", draw 2 cards and trash 1 card from your hand. Then, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-068",
+    "code": "OP13-068",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Douglas Bullet",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-068_UVCBWz9.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-068_UVCBWz9.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "FILM/Former Roger Pirates",
+    "ability": "If you have 8 or more DON!! cards on your field, this Character gains +2000 power.\n[On Play] If your Leader's type includes \"Roger Pirates\", add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-069",
+    "code": "OP13-069",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Tom",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-069_vCk65mp.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-069_vCk65mp.jpg"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Fish-Man/Water Seven",
+    "ability": "[On Play] DON!! -1: Add up to 1 Stage card with a cost of 3 or less from your trash to your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-070",
+    "code": "OP13-070",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Napoleon",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-070_v85HbM8.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-070_v85HbM8.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Big Mom Pirates/Homies",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-071",
+    "code": "OP13-071",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Nekomamushi",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-071_WLqEGIM.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-071_WLqEGIM.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 3000,
+    "counter": "2000",
+    "color": "Purple",
+    "family": "Minks/Roger Pirates",
+    "ability": "[On Play] If you have 8 or more DON!! cards on your field, K.O. up to 1 of your opponent's Characters with 3000 base power or less.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-072",
+    "code": "OP13-072",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Buggy",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-072_0FKRXGi.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-072_0FKRXGi.jpg"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 2000,
+    "counter": "2000",
+    "color": "Purple",
+    "family": "Roger Pirates",
+    "ability": "[On Play] If your Leader's type includes \"Roger Pirates\" and you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-073",
+    "code": "OP13-073",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Prometheus",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-073_AazqEJI.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-073_AazqEJI.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 6000,
+    "counter": "2000",
+    "color": "Purple",
+    "family": "Big Mom Pirates/Homies",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-074",
+    "code": "OP13-074",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Hera",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-074_lIyM5hL.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-074_lIyM5hL.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Purple",
+    "family": "Big Mom Pirates/Homies",
+    "ability": "[On Play] Play up to 1 [Homies] type Character card with 3000 power or less from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-075",
+    "code": "OP13-075",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Guess We'll Have Another Scrap. You Can Only Risk Death While You're Still Alive!!",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-075_6zeTlfR.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-075_6zeTlfR.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Purple",
+    "family": "Roger Pirates/King of the Pirates",
+    "ability": "[Main] You may rest 1 of your DON!! cards: If your Leader is [Gol.D.Roger] and you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and rest it.\n[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-076",
+    "code": "OP13-076",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Divine Departure",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-076_z2cuyIl.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-076_z2cuyIl.jpg"
+    },
+    "cost": 0,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Purple",
+    "family": "Roger Pirates/King of the Pirates",
+    "ability": "[Main] You may rest 5 of your DON!! cards: If you have any DON!! cards given, give up to 1 of your opponent's Characters 8000 power during this turn.\n[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-076_p1",
+    "code": "OP13-076",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Divine Departure (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-076_p1_sBzOJ6b.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-076_p1_sBzOJ6b.jpg"
+    },
+    "cost": 0,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Purple",
+    "family": "Roger Pirates/King of the Pirates",
+    "ability": "[Main] You may rest 5 of your DON!! cards: If you have any DON!! cards given, give up to 1 of your opponent's Characters 8000 power during this turn.\n[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-077",
+    "code": "OP13-077",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Go All the Way to the Top!!",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-077_NYPK8cS.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-077_NYPK8cS.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Purple",
+    "family": "Former Roger Pirates",
+    "ability": "[Main] You may rest 3 of your DON!! cards: If you have any DON!! cards given, K.O. up to 1 of your opponent's Characters with 4000 base power or less and up to 1 of your opponent's Characters with 3000 base power or less.\n[Counter] Your Leader gains +3000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-078",
+    "code": "OP13-078",
+    "rarity": "C",
+    "type": "STAGE",
+    "name": "Oro Jackson",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-078_HORRusH.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-078_HORRusH.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Purple",
+    "family": "Roger Pirates",
+    "ability": "[Once Per Turn] When your Character with a type including \"Roger Pirates\" is removed from the field by your opponent's effect, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-079",
+    "code": "OP13-079",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Imu",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-079_9T9oN7C.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-079_9T9oN7C.jpg"
+    },
+    "cost": null,
+    "attribute": null,
+    "power": 5000,
+    "counter": "",
+    "color": "Black",
+    "family": "",
+    "ability": "Under the rules of this game, you cannot include Events with a cost of 2 or more in your deck and at the start of the game, play up to 1 [Mary Geoise] type Stage card from your deck.\n[Activate: Main] [Once Per Turn] You may trash 1 of your [Celestial Dragons] type Characters or 1 card from your hand: Draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-079_p1",
+    "code": "OP13-079",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Imu (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-079_p1_ZUsrXMm.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-079_p1_ZUsrXMm.jpg"
+    },
+    "cost": null,
+    "attribute": null,
+    "power": 5000,
+    "counter": "",
+    "color": "Black",
+    "family": "",
+    "ability": "Under the rules of this game, you cannot include Events with a cost of 2 or more in your deck and at the start of the game, play up to 1 [Mary Geoise] type Stage card from your deck.\n[Activate: Main] [Once Per Turn] You may trash 1 of your [Celestial Dragons] type Characters or 1 card from your hand: Draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-080",
+    "code": "OP13-080",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Ethanbaron V. Nusjuro",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-080_CwJlWfT.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-080_CwJlWfT.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Rush].\n[When Attacking] If you have 10 or more cards in your trash, give up to 1 of your opponent's Characters 2000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-080_p1",
+    "code": "OP13-080",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Ethanbaron V. Nusjuro (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-080_p1_Znm7jSk.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-080_p1_Znm7jSk.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Rush].\n[When Attacking] If you have 10 or more cards in your trash, give up to 1 of your opponent's Characters 2000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-080_p2",
+    "code": "OP13-080",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Ethanbaron V. Nusjuro (Parallel)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-080_p2.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-080_p2.png"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Rush]. [When Attacking] If you have 10 or more cards in your trash, give up to 1 of your opponent's Characters 2000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-081",
+    "code": "OP13-081",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Koala",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-081_t5A5rdV.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-081_t5A5rdV.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Revolutionary Army/Dressrosa",
+    "ability": "If your Leader has the \"Revolutionary Army\" type, this Character gains +3 cost.\n[Activate: Main] [Once Per Turn] You may place 1 card from your trash at the bottom of your deck: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-082",
+    "code": "OP13-082",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Five Elders",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-082.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-082.png"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Slash/Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type06.png"
+    },
+    "power": 12000,
+    "counter": "",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "[Activate: Main] If your Leader is [Imu], you may rest 1 of your DON!! cards and trash 1 card from your hand: Trash all of your Characters and play up to 5 \"Five Elders\" type Character cards with 5000 power and different card names from your trash.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-082_p1",
+    "code": "OP13-082",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Five Elders (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-082_p1.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-082_p1.png"
+    },
+    "cost": 10,
+    "attribute": {
+      "name": "Slash/Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type06.png"
+    },
+    "power": 12000,
+    "counter": "",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "[Activate: Main] If your Leader is [Imu], you may rest 1 of your DON!! cards and trash 1 card from your hand: Trash all of your Characters and play up to 5 \"Five Elders\" type Character cards with 5000 power and different card names from your trash.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-083",
+    "code": "OP13-083",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Jaygarcia Saturn",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-083_FZex9YP.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-083_FZex9YP.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects.\n[On Play] Look at 5 cards from the top of your deck; reveal up to 1 \"Five Elders\" type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-083_p1",
+    "code": "OP13-083",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Jaygarcia Saturn (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-083_p1_DyviEiB.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-083_p1_DyviEiB.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects.\n[On Play] Look at 5 cards from the top of your deck; reveal up to 1 \"Five Elders\" type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-083_p2",
+    "code": "OP13-083",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Jaygarcia Saturn (Parallel)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-083_p2.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-083_p2.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects. [On Play] Look at 5 cards from the top of your deck; reveal up to 1 \"Five Elders\" type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-084",
+    "code": "OP13-084",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Shepherd Ju Peter",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-084_sHvqdwa.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-084_sHvqdwa.jpg"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects.\n[On Play] Look at 5 cards from the top of your deck; reveal up to 1 \"Five Elders\" type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-084",
+    "code": "OP13-084",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Shepherd Ju Peter (Parallel)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-084_4G64N0X.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-084_4G64N0X.jpg"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects.\n[Your Turn] If you have 10 or more cards in your trash, set the base power of all of your \"Five Elders\" type Characters to 7000.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-084_p1",
+    "code": "OP13-084",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Shepherd Ju Peter (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-084_p1_oqpeaa5.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-084_p1_oqpeaa5.jpg"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects.\n[Your Turn] If you have 10 or more cards in your trash, set the base power of all of your \"Five Elders\" type Characters to 7000.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-085",
+    "code": "OP13-085",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Saint Jalmac",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-085_Lfy7m2J.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-085_Lfy7m2J.jpg"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-086",
+    "code": "OP13-086",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Saint Shalria",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-086_Yli6slR.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-086_Yli6slR.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "",
+    "color": "Black",
+    "family": "1000",
+    "ability": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 \"Celestial Dragons\" type card other than [Saint Shalria] and add it to your hand. Then, trash the rest and trash 1 card from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-087",
+    "code": "OP13-087",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Saint Charlos",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-087_99GpR8n.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-087_99GpR8n.jpg"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "",
+    "color": "Black",
+    "family": "1000",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Trash 1 card from the top of your deck.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-088",
+    "code": "OP13-088",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Terry Gilteo",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-088_QNMqEg1.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-088_QNMqEg1.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 6000,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Revolutionary Army",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-089",
+    "code": "OP13-089",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Topman Warcury",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-089_SkVFeiF.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-089_SkVFeiF.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Blocker].\n[On K.O.] Draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-089_p1",
+    "code": "OP13-089",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Topman Warcury (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-089_p1_r3ef0LC.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-089_p1_r3ef0LC.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Blocker].\n[On K.O.] Draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-089_p2",
+    "code": "OP13-089",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Topman Warcury (Parallel)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-089_p2.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-089_p2.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Blocker]. [On K.O.] Draw 1 card.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-090",
+    "code": "OP13-090",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Hack",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-090_IPtyyHd.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-090_IPtyyHd.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "2000",
+    "color": "Black",
+    "family": "Fish-Man/Revolutionary Army/Dressrosa",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-091",
+    "code": "OP13-091",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Marcus Mars",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-091_YnVly4a.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-091_YnVly4a.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Blocker].\n[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-091_p1",
+    "code": "OP13-091",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Marcus Mars (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-091_p1_lf28Mou.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-091_p1_lf28Mou.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Blocker].\n[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-091_p2",
+    "code": "OP13-091",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "St. Marcus Mars (Parallel)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-091_p2.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-091_p2.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Blocker]. [On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-092",
+    "code": "OP13-092",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Saint Mjosgard",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-092_NBO2Ijh.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-092_NBO2Ijh.jpg"
+    },
+    "cost": 2,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": null,
+    "counter": "",
+    "color": "Black",
+    "family": "2000",
+    "ability": "[On Play] If you have 3 or less Life cards, play up to 1 \"Mary Geoise\" type Stage card with a cost of 1 from your trash.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-093",
+    "code": "OP13-093",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Morgans",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-093_tNZlMud.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-093_tNZlMud.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 4000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Journalist",
+    "ability": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Draw 2 cards and trash 2 cards from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-094",
+    "code": "OP13-094",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "York",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-094_xsMhQ1k.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-094_xsMhQ1k.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 1000,
+    "counter": "1000",
+    "color": "Black",
+    "family": "Scientist/Egghead",
+    "ability": "[On Play] Up to 1 of your \"Celestial Dragons\" type Characters gains +2000 power during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-095",
+    "code": "OP13-095",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Saint Rosward",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-095_agyG3al.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-095_agyG3al.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Ranged",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png"
+    },
+    "power": null,
+    "counter": "",
+    "color": "Black",
+    "family": "1000",
+    "ability": "[On Play] You may trash 1 card from your hand: If you only have \"Celestial Dragons\" type Characters, K.O. up to 2 of your opponent's Characters with a base cost of 3 or less.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-096",
+    "code": "OP13-096",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "The Five Elders Are at Your Service!!!",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-096_vcdbRZo.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-096_vcdbRZo.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 \"Celestial Dragons\" type card other than [The Five Elders Are at Your Service!!!] and add it to your hand. Then, trash the rest.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-097",
+    "code": "OP13-097",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "The World's Equilibrium Cannot Be Maintained Forever",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-097_w3lAhtv.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-097_w3lAhtv.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "[Main] You may rest 5 of your DON!! cards: If the only Characters on your field are \"Celestial Dragons\" type Characters, K.O. up to 1 of your opponent's Characters with a base cost of 6 or less.\n[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-098",
+    "code": "OP13-098",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "Never Existed... in the First Place...",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-098_HPLmiCG.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-098_HPLmiCG.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Black",
+    "family": "Celestial Dragons Five Elders",
+    "ability": "[Main] You may rest 1 of your DON!! cards: If your Leader is [Imu], K.O. up to 1 of your opponent's Stages with a cost of 7.\n[Counter] If your Leader is [Imu], up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-099",
+    "code": "OP13-099",
+    "rarity": "C",
+    "type": "STAGE",
+    "name": "The Empty Throne",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-099_2ZhUgA5.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-099_2ZhUgA5.jpg"
+    },
+    "cost": 7,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Black",
+    "family": "Mary Geoise",
+    "ability": "[Your Turn] If you have 19 or more cards in your trash, your Leader gains +1000 power.\n[Activate: Main] You may rest this card and 3 of your DON!! cards: Play up to 1 black \"Five Elders\" type Character card with a cost equal to or less than the number of DON!! cards on your field from your hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-100",
+    "code": "OP13-100",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Jewelry Bonney (100)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-100_JM8KNLW.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-100_JM8KNLW.jpg"
+    },
+    "cost": null,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "",
+    "color": "Yellow",
+    "family": "Bonney Pirates/Egghead",
+    "ability": "[Your Turn] [Once Per Turn] This effect can be activated when you play a Character with a",
+    "trigger": "[Trigger] Give up to 2 rested DON!! cards to 1 of your Leader or Character cards.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-100_p1",
+    "code": "OP13-100",
+    "rarity": "L",
+    "type": "LEADER",
+    "name": "Jewelry Bonney (100) (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-100_p1_IzreIOG.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-100_p1_IzreIOG.jpg"
+    },
+    "cost": null,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "",
+    "color": "Yellow",
+    "family": "Bonney Pirates/Egghead",
+    "ability": "[Your Turn] [Once Per Turn] This effect can be activated when you play a Character with a",
+    "trigger": "[Trigger] Give up to 2 rested DON!! cards to 1 of your Leader or Character cards.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-101",
+    "code": "OP13-101",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Atlas",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-101_UWB1rSb.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-101_UWB1rSb.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 6000,
+    "counter": "2000",
+    "color": "Yellow",
+    "family": "Scientist/Egghead",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-102",
+    "code": "OP13-102",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Edison",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-102_t91X9iE.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-102_t91X9iE.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 2000,
+    "counter": "2000",
+    "color": "Yellow",
+    "family": "Scientist/Egghead",
+    "ability": "[Activate: Main] You may trash this Character: If the number of your Life cards is equal to or less than the number of your opponent's Life cards, draw 1 card. Then, rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "trigger": "[Trigger] Draw 1 card and rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-103",
+    "code": "OP13-103",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Gyogyo",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-103_dBDGlnT.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-103_dBDGlnT.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Bonney Pirates",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-104",
+    "code": "OP13-104",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Kouzuki Hiyori",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-104_oLjaCOM.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-104_oLjaCOM.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": null,
+    "counter": "",
+    "color": "Yellow",
+    "family": "1000",
+    "ability": "[Blocker]\n[On K.O.] You may trash 1 card from your hand: If your Leader is multicolored, add up to 1 card from the top of your deck to the top of your Life cards.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-105",
+    "code": "OP13-105",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Kouzuki Momonosuke",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-105_QxnP6lI.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-105_QxnP6lI.jpg"
+    },
+    "cost": 3,
+    "attribute": {
+      "name": "Slash",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png"
+    },
+    "power": null,
+    "counter": "",
+    "color": "Yellow",
+    "family": "1000",
+    "ability": "[On Play] Look at all of your Life cards and place them back in your Life area in any order.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-106",
+    "code": "OP13-106",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Conney",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-106_mNTwrvF.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-106_mNTwrvF.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 1000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Bonney Pirates",
+    "ability": "[Opponent's Turn] When a",
+    "trigger": "[Trigger] activates, this Character gains [Blocker] during this turn.\n[Trigger] Play this card.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-107",
+    "code": "OP13-107",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Shaka",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-107_8J2oXLY.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-107_8J2oXLY.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 7000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Scientist/Egghead",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-108",
+    "code": "OP13-108",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Jewelry Bonney (108)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-108_MzSUtnf.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-108_MzSUtnf.jpg"
+    },
+    "cost": 9,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 10000,
+    "counter": "",
+    "color": "Yellow",
+    "family": "Bonney Pirates/Egghead",
+    "ability": "[On Play] If your Leader has the \"Egghead\" type, this Character gains [Rush] during this turn. Then, your opponent adds 1 card from the top of their Life cards to their hand.",
+    "trigger": "[Trigger] If you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-108_p1",
+    "code": "OP13-108",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Jewelry Bonney (108) (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-108_p1_L2qVa00.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-108_p1_L2qVa00.jpg"
+    },
+    "cost": 9,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 10000,
+    "counter": "",
+    "color": "Yellow",
+    "family": "Bonney Pirates/Egghead",
+    "ability": "[On Play] If your Leader has the \"Egghead\" type, this Character gains [Rush] during this turn. Then, your opponent adds 1 card from the top of their Life cards to their hand.",
+    "trigger": "[Trigger] If you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-109",
+    "code": "OP13-109",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Jewelry Bonney (109)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-109_JWqhWXc.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-109_JWqhWXc.jpg"
+    },
+    "cost": 5,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 6000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Bonney Pirates/Supernovas",
+    "ability": "If this Character would be removed from the field by your opponent's effect, you may turn 1 card from the top of your Life cards face-up instead.",
+    "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-110",
+    "code": "OP13-110",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Stussy",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-110_4U0fObw.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-110_4U0fObw.jpg"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Yellow",
+    "family": "CP0/Egghead",
+    "ability": "[Blocker]\n[On Play] If your Leader has the \"Egghead\" type, play up to 1 Character card with a cost of 5 or less and a",
+    "trigger": "[Trigger] from your hand.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-110_p1",
+    "code": "OP13-110",
+    "rarity": "SR",
+    "type": "CHARACTER",
+    "name": "Stussy (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-110_p1_b3Ihbdz.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-110_p1_b3Ihbdz.jpg"
+    },
+    "cost": 7,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Yellow",
+    "family": "CP0/Egghead",
+    "ability": "[Blocker]\n[On Play] If your Leader has the \"Egghead\" type, play up to 1 Character card with a cost of 5 or less and a",
+    "trigger": "[Trigger] from your hand.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-111",
+    "code": "OP13-111",
+    "rarity": "UC",
+    "type": "CHARACTER",
+    "name": "Pythagoras",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-111_jvjjnPd.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-111_jvjjnPd.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 7000,
+    "counter": "2000",
+    "color": "Yellow",
+    "family": "Scientist/Egghead",
+    "ability": "",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-112",
+    "code": "OP13-112",
+    "rarity": "C",
+    "type": "CHARACTER",
+    "name": "Vegapunk",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-112_HNVPF9X.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-112_HNVPF9X.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 1000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Scientist/Egghead",
+    "ability": "If you have a total of 2 or more given DON!! cards, this Character gains [Blocker].\n(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-113",
+    "code": "OP13-113",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Lilith",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-113_7rwG6l3.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-113_7rwG6l3.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Scientist/Egghead",
+    "ability": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 card with a",
+    "trigger": "[Trigger] other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[Trigger] Activate this card's [On Play] effect.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-113_p1",
+    "code": "OP13-113",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "Lilith (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-113_p1_Tn6Q6cv.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-113_p1_Tn6Q6cv.jpg"
+    },
+    "cost": 1,
+    "attribute": {
+      "name": "Wisdom",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png"
+    },
+    "power": 2000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Scientist/Egghead",
+    "ability": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 card with a",
+    "trigger": "[Trigger] other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[Trigger] Activate this card's [On Play] effect.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-114",
+    "code": "OP13-114",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "S-Snake",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-114_3xn0b40.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-114_3xn0b40.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Egghead/Seraphim",
+    "ability": "[On Play]/[When Attacking] You may turn 1 card from the top of your Life cards face-up: Give up to 1 of your opponent's Characters 2000 power during this turn.",
+    "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-114_p1",
+    "code": "OP13-114",
+    "rarity": "R",
+    "type": "CHARACTER",
+    "name": "S-Snake (Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-114_p1_OWb9veP.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-114_p1_OWb9veP.jpg"
+    },
+    "cost": 4,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 5000,
+    "counter": "1000",
+    "color": "Yellow",
+    "family": "Egghead/Seraphim",
+    "ability": "[On Play]/[When Attacking] You may turn 1 card from the top of your Life cards face-up: Give up to 1 of your opponent's Characters 2000 power during this turn.",
+    "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-115",
+    "code": "OP13-115",
+    "rarity": "C",
+    "type": "EVENT",
+    "name": "Paper Art Afterimage",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-115_zQQJNmf.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-115_zQQJNmf.jpg"
+    },
+    "cost": 2,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Yellow",
+    "family": "CP0/Egghead",
+    "ability": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, if your opponent has 2 or less Life cards, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-116",
+    "code": "OP13-116",
+    "rarity": "UC",
+    "type": "EVENT",
+    "name": "The One Who Is the Most Free Is the Pirate King!!!",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-116_yr69sF2.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-116_yr69sF2.jpg"
+    },
+    "cost": 1,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Yellow",
+    "family": "Straw Hat Crew/Supernovas",
+    "ability": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 \"Supernovas\" type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-117",
+    "code": "OP13-117",
+    "rarity": "R",
+    "type": "EVENT",
+    "name": "Gum-Gum Dawn Stamp",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-117_6Nnfp7Z.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-117_6Nnfp7Z.jpg"
+    },
+    "cost": 5,
+    "attribute": null,
+    "power": null,
+    "counter": "",
+    "color": "Yellow",
+    "family": "Straw Hat Crew/The Four Emperors/Egghead",
+    "ability": "[Main] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a base cost of 6 or less.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-118",
+    "code": "OP13-118",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy (118)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-118_AZWGnsD.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-118_AZWGnsD.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Green",
+    "family": "Straw Hat Crew/Supernovas/Fish-Man Island",
+    "ability": "[Double Attack]\n[On Play] If your Leader is multicolored, set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-118_p1",
+    "code": "OP13-118",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy (118) (Parallel)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-118_p1_Ly1IuQY.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-118_p1_Ly1IuQY.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Green",
+    "family": "Straw Hat Crew/Supernovas/Fish-Man Island",
+    "ability": "[Double Attack][On Play] If your Leader is multicolored, set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-118_p2",
+    "code": "OP13-118",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy (118) (Super Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-118_p2_t8HeAN4.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-118_p2_t8HeAN4.png"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Green",
+    "family": "Straw Hat Crew/Supernovas/Fish-Man Island",
+    "ability": "[Double Attack][On Play] If your Leader is multicolored, set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-118_p3",
+    "code": "OP13-118",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy (118) (Red Super Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-118_p3_asWvw9M.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-118_p3_asWvw9M.png"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Green",
+    "family": "Fish-Man Island/Supernovas/Straw Hat Crew",
+    "ability": "[Double Attack] [On Play] If your Leader is multicolored, set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-118_p4",
+    "code": "OP13-118",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Monkey.D.Luffy (118) (Wanted Poster)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-118_p4_QcLxwMi.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-118_p4_QcLxwMi.png"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Strike",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Green",
+    "family": "Straw Hat Crew/Supernovas/Fish-Man Island",
+    "ability": "[Double Attack][On Play] If your Leader is multicolored, set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-119",
+    "code": "OP13-119",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Portgas.D.Ace (119)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-119_2YugQh1.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-119_2YugQh1.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "If you have 3 or less Life cards, this Character gains [Rush].\n[On Play] Give up to 1 rested DON!! card to your Leader. Then, you may return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand. If you do, your opponent plays up to 1 Character card with a cost of 4 or less from their hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-119_p1",
+    "code": "OP13-119",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Portgas.D.Ace (119) (Parallel)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-119_p1_JEaVVuj.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-119_p1_JEaVVuj.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "If you have 3 or less Life cards, this Character gains [Rush].[On Play] Give up to 1 rested DON!! card to your Leader. Then, you may return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand. If you do, your opponent plays up to 1 Character card with a cost of 4 or less from their hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-119_p2",
+    "code": "OP13-119",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Portgas.D.Ace (119) (Super Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-119_p2_lq7yqKH.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-119_p2_lq7yqKH.png"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "If you have 3 or less Life cards, this Character gains [Rush].[On Play] Give up to 1 rested DON!! card to your Leader. Then, you may return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand. If you do, your opponent plays up to 1 Character card with a cost of 4 or less from their hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-119_p3",
+    "code": "OP13-119",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Portgas.D.Ace (119) (Red Super Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-119_p3_xilqQGs.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-119_p3_xilqQGs.png"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "If you have 3 or less Life cards, this Character gains [Rush].[On Play] Give up to 1 rested DON!! card to your Leader. Then, you may return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand. If you do, your opponent plays up to 1 Character card with a cost of 4 or less from their hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-119_p4",
+    "code": "OP13-119",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Portgas.D.Ace (119) (Wanted Poster)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-119_p4_WLOgMvR.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-119_p4_WLOgMvR.png"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Blue",
+    "family": "Whitebeard Pirates",
+    "ability": "If you have 3 or less Life cards, this Character gains [Rush].[On Play] Give up to 1 rested DON!! card to your Leader. Then, you may return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand. If you do, your opponent plays up to 1 Character card with a cost of 4 or less from their hand.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-120",
+    "code": "OP13-120",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Sabo (120) (SP)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-120_z0pbdkv.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-120_z0pbdkv.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Black",
+    "family": "Revolutionary Army/Dressrosa",
+    "ability": "[Blocker]\n[Activate: Main] [Once Per Turn] Up to 1 of your Characters gains +2 cost until the end of your opponent's next turn. Then, give up to 1 rested DON!! card to your Leader.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-120_p1",
+    "code": "OP13-120",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Sabo (120) (Parallel)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-120_p1_2A43PIv.jpg",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-120_p1_2A43PIv.jpg"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Black",
+    "family": "Revolutionary Army/Dressrosa",
+    "ability": "[Blocker][Activate: Main] [Once Per Turn] Up to 1 of your Characters gains +2 cost until the end of your opponent's next turn. Then, give up to 1 rested DON!! card to your Leader.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-120_p2",
+    "code": "OP13-120",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Sabo (120) (Super Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-120_p2_wEkYNLq.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-120_p2_wEkYNLq.png"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Black",
+    "family": "Revolutionary Army/Dressrosa",
+    "ability": "[Blocker][Activate: Main] [Once Per Turn] Up to 1 of your Characters gains +2 cost until the end of your opponent's next turn. Then, give up to 1 rested DON!! card to your Leader.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-120_p3",
+    "code": "OP13-120",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Sabo (120) (Red Super Alternate Art)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-120_p3_BOK73c4.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-120_p3_BOK73c4.png"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Black",
+    "family": "Dressrosa/Revolutionary Army",
+    "ability": "[Blocker] [Activate: Main] [Once Per Turn] Up to 1 of your Characters gains +2 cost until the end of your opponent's next turn. Then, give up to 1 rested DON!! card to your Leader.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  },
+  {
+    "id": "OP13-120_p4",
+    "code": "OP13-120",
+    "rarity": "SEC",
+    "type": "CHARACTER",
+    "name": "Sabo (120) (Wanted Poster)",
+    "images": {
+      "small": "https://optcgapi.com/media/static/Card_Images/OP13-120_p4_XjhzZ5f.png",
+      "large": "https://optcgapi.com/media/static/Card_Images/OP13-120_p4_XjhzZ5f.png"
+    },
+    "cost": 6,
+    "attribute": {
+      "name": "Special",
+      "image": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png"
+    },
+    "power": 7000,
+    "counter": "",
+    "color": "Black",
+    "family": "Revolutionary Army/Dressrosa",
+    "ability": "[Blocker][Activate: Main] [Once Per Turn] Up to 1 of your Characters gains +2 cost until the end of your opponent's next turn. Then, give up to 1 rested DON!! card to your Leader.",
+    "trigger": "",
+    "set": {
+      "name": "Carrying On His Will [OP-13]"
+    },
+    "notes": []
+  }
+]
